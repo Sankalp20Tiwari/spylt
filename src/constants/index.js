@@ -30,3 +30,11 @@ export const flavorlists = [
     rotation: "md:rotate-[8deg] rotate-0",
   },
 ];
+
+export const nutrientLists = [
+  { label: "Potassium", amount: "245mg" },
+  { label: "Calcium", amount: "500mg" },
+  { label: "Vitamin A", amount: "176mcg" },
+  { label: "Vitamin D", amount: "5mcg" },
+  { label: "Iron", amount: "1mg" },
+];
