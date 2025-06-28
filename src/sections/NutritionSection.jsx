@@ -111,7 +111,7 @@ const NutritionSection = () => {
                 </div>
             </div>
 
-            <div className="nutrition-box">
+            <div className="nutrition-box pr-20 ">
                 <div className="list-wrapper">
                     {
                         lists.map((nutrient, index) => (
